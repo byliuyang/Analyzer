@@ -1,7 +1,7 @@
 # Analyzer
 
 ## Prerequisite
-- Node.js
+- Node.js v8.5.0
 
 ## Installation
 To install the application, please navigate to project directory and run:
@@ -99,3 +99,11 @@ Here is a example specifying options in the URL:
 ```
 http://localhost:3000/https%3A%2F%2Fwww.wpi.edu/technologies?maxDepth=2
 ```
+
+## Authors
+
+- [Yang Liu](https://github.com/byliuyang) - **Initial works**
+
+## License
+
+This project is maintained under MIT license.
